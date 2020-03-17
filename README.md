@@ -10,7 +10,7 @@ Animal Crossing for GameCube and Animal Forest for Nintendo 64 have the exact sa
 
 City Folk for Wii and Wild World for DS have the exact same music.
 
-New Horizons will play the theme on loop until New Horizons is released or a cartridge/ROM is dumped and leaked.
+Some of New Horizons music has been leaked. Until it comes out officially, the trailer theme will play for hours that haven't been leaked yet. Keep in mind some of New Horizons music will be extremely low quality.
 
 ## Regarding other games
 Happy Home Designer will play the music of your choice for day and night cycles. Weather and holidays are not considered in this game.
