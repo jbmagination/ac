@@ -12,6 +12,8 @@ City Folk for Wii and Wild World for DS have the exact same music.
 
 Some of New Horizons music has been leaked. Until it comes out officially, the trailer theme will play for hours that haven't been leaked yet. Keep in mind some of New Horizons music will be extremely low quality.
 
+For unknown music tracks, comments on the videos will be used for guessing what hour it is.
+
 ## Regarding other games
 Happy Home Designer will play the music of your choice for day and night cycles. Weather and holidays are not considered in this game.
 
