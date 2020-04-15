@@ -3,7 +3,7 @@ Animal Crossing music for all games, depending on time, weather, and holiday.
 
 This hasn't been created yet, but this repository will be here for documentation and for when it is finished and ready.
 
-A lot of code has been stolen from [tane.us/ac](https://tane.us/ac) (regarding CSS), [crossingti.me](https://crossingti.me) (regarding playlists and videos), and the [AC Music extension](https://acmusicext.com) (regarding weather).
+A lot of code has been stolen from [tane.us/ac](https://tane.us/ac) (regarding CSS), [crossingti.me](https://crossingti.me) (regarding playlists and videos), the [AC Music extension](https://acmusicext.com) (regarding when to loop, and some weather code) and Stack Overflow. Please don't sue me.
 
 ## Regarding main games
 Animal Crossing for GameCube and Animal Forest for Nintendo 64 have the exact same music.
