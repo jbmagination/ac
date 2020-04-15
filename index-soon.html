@@ -2,7 +2,52 @@
 <h1>What this website does</h1>
 <p>This website utilizes cookies to save preferences (e.g. what your favorite OST is, what track you prefer the most). It also detects your location, which is used to check the weather.</p>
 <p></p>
-<p>This website utilizes JavaScript to detect the time as well the ability to send the weather information.</p>
+<p>This website utilizes JavaScript for the following:</p>
+<ul>
+  <li>Time</li>
+  <li>Weather</li>
+  <li>Cookies</li>
+</ul>
 <p></p>
-<div id="js"><noscript><b>JavaScript is not enabled on your computer. You cannot use this website.</b></noscript></div>
+<div><noscript><b id="js">JavaScript is not enabled on your computer. You cannot use this website.</b></noscript></div>
 <script>document.getElementById("js").innerHTML = "<b>JavaScript is enabled on your computer. You can use this website.</b>"</script>
+<p></p>
+<p>If all goes well, this should be accurately displayed:</p>
+<script>
+  var d = new Date();
+  var weekday = new Array(7);
+  weekday[0] = "Sunday";
+  weekday[1] = "Monday";
+  weekday[2] = "Tuesday";
+  weekday[3] = "Wednesday";
+  weekday[4] = "Thursday";
+  weekday[5] = "Friday";
+  weekday[6] = "Saturday";
+
+  var n = weekday[d.getDay()];
+  document.getElementById("weekday").innerHTML = n;
+</script>
+<script>
+  function timeZero(i) {
+  if (i < 10) {
+    i = "0" + i;
+  }
+  return i;
+}
+
+function timeDisplay() {
+  var d = new Date();
+  var x = 
+  document.getElementById("time");
+  var h = timeZero(d.getHours());
+  var m = timeZero(d.getMinutes());
+  var s = timeZero(d.getSeconds());
+  x.innerHTML = h + ":" + m + ":" + s;
+  timeDisplay();
+}
+</script>
+<ul>
+  <li>The time is <b><div><p id="time">Loading...</p></div></b></li>
+  <li>The day of the week is <b><div><p id="weekday">Loading...</p></div></b></li>
+  <li>
+
