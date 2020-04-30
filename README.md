@@ -12,11 +12,11 @@ City Folk for Wii and Wild World for DS have the exact same music.
 
 New Leaf has it's own individual music.
 
-New Horizons music has been fully leaked. It'll be uploaded very soon.
+New Horizons music is also individual.
 
 For unknown music tracks, comments on the videos will be used for guessing what hour it is.
 
-K.K. Slider songs are not going to play. This is purely Animal Crossing hourly music, and nothing else.
+K.K. Slider songs are off by default, but can be  enabled.
 
 ## Regarding other games
 Happy Home Designer will play the music of your choice for day and night cycles. Weather and holidays are not considered in this game.
