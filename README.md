@@ -5,6 +5,8 @@ This hasn't been created yet, but this repository will be here for documentation
 
 A lot of code has been stolen from [tane.us/ac](https://tane.us/ac) (regarding CSS), [crossingti.me](https://crossingti.me) (regarding playlists and videos), the [AC Music extension](https://acmusicext.com) (regarding when to loop, and some weather code) and Stack Overflow. Please don't sue me.
 
+I am sincerely hoping this will be the most feature-rich choice for Animal Crossing music yet.
+
 ## Regarding main games
 Animal Crossing for GameCube and Animal Forest for Nintendo 64 have the exact same music.
 
@@ -14,9 +16,7 @@ New Leaf has it's own individual music.
 
 New Horizons music is also individual.
 
-For unknown music tracks, comments on the videos will be used for guessing what hour it is.
-
-K.K. Slider songs are off by default, but can be  enabled.
+K.K. Slider songs are off by default, but can be enabled.
 
 ## Regarding other games
 Happy Home Designer will play the music of your choice for day and night cycles. Weather and holidays are not considered in this game.
