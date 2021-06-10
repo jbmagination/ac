@@ -9,10 +9,14 @@
   <li>Cookies</li>
 </ul>
 <p></p>
-<div><noscript><b id="js">JavaScript is not enabled on your computer. You cannot use this website.</b></noscript></div>
+<div><b id="js"><noscript>JavaScript is not enabled on your computer. You cannot use this website.</noscript></b></div>
 <script>document.getElementById("js").innerHTML = "<b>JavaScript is enabled on your computer. You can use this website.</b>"</script>
 <p></p>
 <p>If all goes well, this should be accurately displayed:</p>
+<ul>
+  <li>The time is <b><div id="time">Loading...</div></b></li>
+  <li>The day of the week is <b><div id="weekday">Loading...</div></b></li>
+</ul>
 <script>
   var d = new Date();
   var weekday = new Array(7);
@@ -46,8 +50,4 @@ function timeDisplay() {
   timeDisplay();
 }
 </script>
-<ul>
-  <li>The time is <b><div id="time">Loading...</div></b></li>
-  <li>The day of the week is <b><div id="weekday">Loading...</div></b></li>
-  <li>
 
